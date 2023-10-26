@@ -11,6 +11,7 @@
 		4F27E14C2AEABF3700A5CBC8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F27E14B2AEABF3700A5CBC8 /* ContentView.swift */; };
 		4F27E14E2AEABF3800A5CBC8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F27E14D2AEABF3800A5CBC8 /* Assets.xcassets */; };
 		4F27E1512AEABF3800A5CBC8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F27E1502AEABF3800A5CBC8 /* Preview Assets.xcassets */; };
+		4F27E1582AEABF9A00A5CBC8 /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F27E1572AEABF9A00A5CBC8 /* DataController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4F27E14B2AEABF3700A5CBC8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4F27E14D2AEABF3800A5CBC8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4F27E1502AEABF3800A5CBC8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4F27E1572AEABF9A00A5CBC8 /* DataController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DataController.swift; path = CoreDataProject/DataController.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				4F27E1492AEABF3700A5CBC8 /* CoreDataProjectApp.swift */,
 				4F27E14B2AEABF3700A5CBC8 /* ContentView.swift */,
+				4F27E1572AEABF9A00A5CBC8 /* DataController.swift */,
 				4F27E14D2AEABF3800A5CBC8 /* Assets.xcassets */,
 				4F27E14F2AEABF3800A5CBC8 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4F27E14C2AEABF3700A5CBC8 /* ContentView.swift in Sources */,
+				4F27E1582AEABF9A00A5CBC8 /* DataController.swift in Sources */,
 				4F27E14A2AEABF3700A5CBC8 /* CoreDataProjectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
